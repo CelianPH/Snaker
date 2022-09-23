@@ -26,6 +26,7 @@ Supprimer les branches :
 
 Récupérer les branches :
 for remote in `git branch -r`; do git branch --track ${remote#origin/} $remote; done
+-> cette commande boucle sur toutes les branches pour les recuperer sur son environnement
 
 Organisation de nos branches :
 - PROD 'main'
