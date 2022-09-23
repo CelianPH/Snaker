@@ -14,3 +14,11 @@ cd snaker/
 $ git commit -m 'ajout du code source'
 $ git config --global user.email hugo.debarre@free.fr
 $ git push origin main
+
+    Branches
+
+créer les branches :
+
+Récupérer les branches :
+
+for remote in `git branch -r`; do git branch --track ${remote#origin/} $remote; done
