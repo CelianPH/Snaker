@@ -58,3 +58,7 @@ git push -u origin main
 
     Travail sur les V2
 La tache de modification du CSS est faite puis mise en prod pour officier de V2
+
+Déploiement :
+On va venir link les comptes Netlify et Github en utilisant le workflow HTML Static. En changeant les paramètres dans le workflow notamment en changeant la branch racine (on remplace master par main) on va le commit. Cela va donc créer un .yml.
+Dans Netlify une fois que le site est déployé on lui assigne une nom de domaine et on tire le lien final : https://clinquant-beignet-64dee1.netlify.app/
