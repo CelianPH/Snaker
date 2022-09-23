@@ -24,6 +24,7 @@ git add .
 git commit -m 'initialisation de la branche documentation'
 git push -u origin branche_documentation
 
+Supprimer les branches :
 
 Récupérer les branches :
 
