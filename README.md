@@ -1,5 +1,7 @@
 B2 ESGI Lyon groupe3 Celian ; Hugo ; Josserand ; Pierre-Henry
 
+Ce depot permet la collaboration autour d'un site web statique de vente de paires de chaussures : Snaker
+
 Documentation :
 
    Set de l'environnement
