@@ -18,11 +18,10 @@ $ git push origin main
     Branches
 
 créer les branches :
-git branch page_documentation
-git checkout page_documentation
+git branch dev_
+git checkout dev_
 git add .
-git commit -m 'initialisation de la branche documentation'
-git push -u origin branche_documentation
+git push -u origin dev_
 
 Supprimer les branches :
 
