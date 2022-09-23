@@ -50,5 +50,11 @@ git pull
 git merge dev_*
 git push -u origin recette
 
-    Travail sur les V2
+    Publication de la premiere version sur la PROD 'main'
+    
+git checkout main
+git merge recette
+git push -u origin main
 
+    Travail sur les V2
+La tache de modification du CSS est faite puis mise en prod pour officier de V2
