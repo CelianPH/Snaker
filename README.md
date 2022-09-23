@@ -18,6 +18,12 @@ $ git push origin main
     Branches
 
 créer les branches :
+git branch page_documentation
+git checkout page_documentation
+git add .
+git commit -m 'initialisation de la branche documentation'
+git push -u origin branche_documentation
+
 
 Récupérer les branches :
 
