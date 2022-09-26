@@ -68,3 +68,4 @@ On va venir link les comptes Netlify et Github en utilisant le workflow HTML Sta
 Dans Netlify une fois que le site est déployé on lui assigne une nom de domaine et on tire le lien final : https://clinquant-beignet-64dee1.netlify.app/
 
 Vous trouverez les notes de Josserand Di Nunzio parmis les fichiers : Notes_Git_JDinunzio
+Vous trouverez les notes de Célian PHILIBERT parmis les fichiers : https://brawny-quarter-1f0.notion.site/Versioning-GIT-a4e9039c90784079b8568b4f54637331
