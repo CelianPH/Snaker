@@ -69,3 +69,4 @@ Dans Netlify une fois que le site est déployé on lui assigne une nom de domain
 
 Vous trouverez les notes de Josserand Di Nunzio parmis les fichiers : Notes_Git_JDinunzio
 Vous trouverez les notes de Célian PHILIBERT parmis les fichiers : https://brawny-quarter-1f0.notion.site/Versioning-GIT-a4e9039c90784079b8568b4f54637331
+Vous trouverez les notes de Hugo DEBARRE parmis les fichiers : Versionning note Hugo DEBARRE
